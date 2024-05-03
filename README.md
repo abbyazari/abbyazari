@@ -1,4 +1,4 @@
-### Hello <i class="fa-thin fa-user-astronaut"></i>
+### Hello :satellite:
 
 
 <!--
