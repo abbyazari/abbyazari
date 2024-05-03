@@ -5,8 +5,8 @@ I'm a planetary space physicist pursuing machine learning methods for uncertaint
 - :satellite:  currently [working](https://dsi.ubc.ca/projects/2023/gaussian-processes-advancing-understanding-planetary-magnetism-spacecraft) on applications of Gaussian processes for planetary magnetism and space physics.
 - :earth_americas:  am excited about the use of machine learning for understanding our planet and others. 
 - :telescope:  enjoy interating in the [DeepSkies](https://deepskieslab.com/) community. 
-- :moon:  founded the Machine Learning for Planetary and Space Physics journal club, join at [ml4psp.github.io](https:://ml4psp.github.io).
-- :link:  see [abbyazari.github.io](https:://abbyazari.github.io) for my research.
+- :moon:  founded the Machine Learning for Planetary and Space Physics journal club, join at [ml4psp.github.io](ml4psp.github.io).
+- :link:  see [abbyazari.github.io](abbyazari.github.io) for my research.
 
 
 
