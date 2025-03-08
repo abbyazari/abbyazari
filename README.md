@@ -1,6 +1,6 @@
 ### Hello :wave: 
 
-I'm a planetary space physicist pursuing probabilistic machine learning and inverse methods for scientific insight; I'm currently an Assistant Professor at the University of Alberta.
+I'm a planetary space physicist pursuing probabilistic machine learning and inverse methods for scientific insight; I'm currently an Assistant Professor at the University of Alberta and a researcher at the Alberta Machine Intelligence Institute. 
 
 - :satellite:  previously [worked](https://dsi.ubc.ca/projects/2023/gaussian-processes-advancing-understanding-planetary-magnetism-spacecraft) on applications of Gaussian processes for planetary magnetism and space physics.
 - :earth_americas:  am excited about the use of machine learning for [understanding](https://baas.aas.org/pub/2021n4i128/release/1) our planet and others. 
